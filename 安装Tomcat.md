@@ -9,7 +9,7 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
 #### 2.1 解压包
 
 将下载的 Tomcat 压缩包解压，移动至某个文件夹（此处为 `D:\Program Files`），然后进入我们解压后的文件夹，此时复制其路径：（`D:\Program Files\apache-tomcat-9.0.27`）
-![本地解压路径](images\local_tomcat9.png)
+![本地解压路径](images/local_tomcat9.png)
 
 #### 2.2 配置环境变量
 
@@ -19,7 +19,7 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
 
 ​           变量值：`D:\Program Files\apache-tomcat-9.0.27`
 
-![新建系统变量](images\new_sys_env.png)
+![新建系统变量](images/new_sys_env.png)
 
 2. 找到 `path`变量
 
@@ -27,7 +27,7 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
 
    其指向了我们安装目录下的  \bin 文件夹
 
-   ![为path变量添加一条值](images\path_env.png)
+   ![为path变量添加一条值](images/path_env.png)
 
    
 
@@ -41,7 +41,7 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
 
    如下图，提示安装成功：
 
-   ![install_service](images\install_service.png)
+   ![install_service](images/install_service.png)
 
 ### 三、启动Tomcat服务
 
@@ -53,7 +53,7 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
    $ startup
    ```
 
-   ![启动Tomcat](images\startup.png)
+   ![启动Tomcat](images/startup.png)
 
 此时不要关闭此CMD窗口，打开浏览器输入地址： [localhost:8080]( http://localhost:8080/ ) 即可访问Tomcat主页（Tomcat默认运行端口为8080）
 
@@ -69,4 +69,4 @@ Tomcat9：[官网下载]( https://tomcat.apache.org/download-90.cgi )
 
    这样我们的Tomcat就会一直在系统后台运行了，重启后也会一直运行。我们随时打开[localhost:8080]( http://localhost:8080/) 进入Tomcat主页。
 
-   ![Run Tomcat](images\run.png)
+   ![Run Tomcat](images/run.png)
