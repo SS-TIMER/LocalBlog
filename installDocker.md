@@ -18,11 +18,11 @@
 
 ​             直接点击我们下载的Docker安装文件进行安装。安装成功如图：
 
-![1571836310082](images\installDockerSuccer.png)
+![1571836310082](images/installDockerSuccer.png)
 
 ​            重启后，可见：（推荐不勾选第二项）
 
-![1571835432374](images\installDockerOnWin10_startconf.png)
+![1571835432374](images/installDockerOnWin10_startconf.png)
 
 配置共享磁盘 Shared Drives
 
