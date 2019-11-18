@@ -16,15 +16,15 @@
 
 #### 课程资料
 
-- SpringBoot系列
+- SpringBoot系列:
 
-​ SpringBoot视频教程： https://www.bilibili.com/video/av38657363
+  SpringBoot视频教程： https://www.bilibili.com/video/av38657363
 
-​ SpringBoot How2J：  https://how2j.cn/k/springboot/springboot-idea/1641.html 
+  SpringBoot How2J：  https://how2j.cn/k/springboot/springboot-idea/1641.html 
 
-​ SpringBoot 官方文档： https://spring.io/projects/spring-boot/ 
+  SpringBoot 官方文档： https://spring.io/projects/spring-boot/ 
 
-- renren-security (人人权限系统）
+- renren-security (人人权限系统）:
 
   renren-security GITEE地址： https://gitee.com/renrenio/renren-security 
 
@@ -32,8 +32,8 @@
 
 ### 开发工具集：
 
-`IDEA(Ultimate)2019.2 ` 集成开发环境
+[IDEA(Ultimate)2019.2]( https://www.jetbrains.com/idea/download/#section=windows )
 
-`JDK 1.8`
+[JDK 1.8]( https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html )
 
-`MySQL 5.7`
+[MySQL 5.7]( https://dev.mysql.com/downloads/mysql/ )
