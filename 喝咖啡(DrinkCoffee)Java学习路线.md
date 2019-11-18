@@ -4,15 +4,15 @@
 
 ### 拟定学习路线
 
-- Java SE基础 `自学 考核（2周） 截止11月17日` ：熟练掌握 [HOW2J](https://how2j.cn) 上JAVA中级内容
+- 【截止11月17日】Java SE基础 `自学 考核（2周）` ：熟练掌握 [HOW2J](https://how2j.cn) 上JAVA中级内容
 
-- SpringBoot  `视频教学+HOW2J 11月18日`：
+- 【11月18日】SpringBoot  `视频教学+HOW2J`：
 
   1. 掌握 IDEA开发工具的使用，Maven，GIT等工具使用。
   2.  熟悉 SpringBoot 项目的搭建以及开发
   3.  熟悉 MySQL 应用
 
--  renren-security (人人权限系统）应用开发 `12月18日`：掌握renren-security的二次开发
+-  【12月18日】renren-security (人人权限系统）应用开发 ：掌握renren-security的二次开发
 
 #### 课程资料
 
