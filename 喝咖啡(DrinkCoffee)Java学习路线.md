@@ -12,7 +12,7 @@
   2.  熟悉 SpringBoot 项目的搭建以及开发
   3.  熟悉 MySQL 应用
 
--  renren-security (人人权限系统）应用开发
+-  renren-security (人人权限系统）应用开发 `12月18日`：掌握renren-security的二次开发
 
 #### 课程资料
 
