@@ -110,5 +110,5 @@ ps:https://blog.csdn.net/weixin_39893958/article/details/84335159 这里整理�
 
 EJB没用过，所以就Spring和EJB的比较以及Spring对于EJB的提升优点等不作过多解释，但从前面的种种发展历程来看，我们现在使用的Spring等都相对来说简单、方便了很多，框架的产生也对Javaweb开发影响极深，也是发展的必然趋势。简单了解了下Javaweb的发展趋势，下面在继续说说我们为什么会选择Spring，即Spring的优缺点。
 ————————————————
-版权声明：本文为CSDN博主「柔情小公牛」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/weixin_39893958/article/details/84389384
+
+转载-原文链接：https://blog.csdn.net/weixin_39893958/article/details/84389384
